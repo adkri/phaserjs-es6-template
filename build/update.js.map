@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/game/update.js"],"names":["update","playerMovement"],"mappings":";;AAAA,SAASA,MAAT,GAAkB;AACd;AACAC;AACH","file":"update.js","sourcesContent":["function update() {\r\n    //Replace with own code\r\n    playerMovement();    \r\n}\r\n\r\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/game/preload.js"],"names":["preload","game","load","image"],"mappings":";;AAAA,SAASA,OAAT,GAAmB;AACf;AACAC,SAAKC,IAAL,CAAUC,KAAV,CAAgB,IAAhB,EAAqB,eAArB;AAEH","file":"preload.js","sourcesContent":["function preload() {\r\n    //Preload images, sprites, maps, .....\r\n    game.load.image('bg','assets/bg.png');\r\n\r\n}"]}
