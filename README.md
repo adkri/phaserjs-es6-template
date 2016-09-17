@@ -1,7 +1,7 @@
 # phaserjs-es6-template
 Code in the phaser html5 game framework in the next generation JavaScript.
 
-This is just a inimalistic phaser template to write the code in es6 javascript.
+This is just a minimalistic phaser template to write the code in es6 javascript.
 
 # Installation:
 
