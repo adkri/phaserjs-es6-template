@@ -8,9 +8,9 @@ This is just a inimalistic phaser template to write the code in es6 javascript.
 1. Install node in your system if you haven't already : www.nodejs.org
 2. Clone the repository
 3. Install node modules by running following commands
-    <pre lang="javascript">>npm install -g grunt</pre>
-    <pre lang="javascript">>npm install</pre>
+    <pre lang="javascript"> >npm install -g grunt</pre>
+    <pre lang="javascript"> >npm install</pre>
 
 # Run
 Run the project with following command in current directory:
-    <pre lang="javascript">>grunt</pre>
+    <pre lang="javascript"> >grunt</pre>
